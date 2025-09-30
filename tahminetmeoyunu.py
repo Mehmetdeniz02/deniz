@@ -24,4 +24,5 @@ while True:
         print("Tahmin Hakkınız Bitmiştir.Tahmin Sayısı:",rastgele_sayı)
         break
         
+
         
